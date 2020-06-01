@@ -1,0 +1,87 @@
+@import url("style.css");
+.header{
+	background: black;
+	margin: 0px;
+	color: blue;
+}
+.title1{
+	background: #008CC8;
+	font-size: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: black;
+}
+.title2{
+	background: #007382;
+	font-size: 25px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: white;
+}
+.title3{
+	background: #C1A175;
+	font-size: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: black;
+}
+.title4{
+	background: #FDE1BA;
+	font-size: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: black;
+}
+.title5{
+	background: #A3223A;
+	font-size: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: white;
+}
+.title6{
+	background: gray;
+	font-size: 35px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-align: center;
+	color: white;
+}
+.texto{
+	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.texto2{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	background: #007382;
+	color: white;
+}
+.texto3{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	color: white;
+	
+}
+
+.texto4{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	
+}
+.pag3{
+	background: #51B0BB;
+}
+.box{
+	background: white;
+	height: 20px;
+}
+.box1{
+	background: #A3223A;
+	height: 20px;
+}
+img{
+	display: block;
+	 
+}
